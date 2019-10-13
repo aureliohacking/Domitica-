@@ -1,0 +1,15 @@
+actualizamos nuestros repositrios
+
+sudo apt-get install update
+sudo apt-get install upgrade
+
+procedemos a instalar el repositorio
+
+sudo apt-get install mutt
+
+
+y configuramos nuestra dirreccion gmail desde donde se enviaran los datos al correo del sistema de alarma 
+
+sudo nano /root/. muttrc  
+
+copiamos el contenido del archivo configuracion 
